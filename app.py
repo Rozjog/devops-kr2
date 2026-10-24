@@ -1,3 +1,5 @@
+# KR2: Zenov
+
 import os
 import socket
 
